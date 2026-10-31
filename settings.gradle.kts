@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "UltimateRagePS"
+rootProject.name = "UltimateRage"
 include(":app")
